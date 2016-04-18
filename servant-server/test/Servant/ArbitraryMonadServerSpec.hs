@@ -5,7 +5,6 @@ module Servant.ArbitraryMonadServerSpec where
 
 import qualified Control.Category           as C
 import           Control.Monad.Reader
-import           Control.Monad.Trans.Except
 import           Data.Proxy
 import           Servant.API
 import           Servant.Server
